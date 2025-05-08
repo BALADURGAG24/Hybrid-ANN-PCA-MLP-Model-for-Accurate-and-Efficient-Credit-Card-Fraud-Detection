@@ -1,8 +1,6 @@
 # Hybrid-ANN-PCA-MLP-Model-for-Accurate-and-Efficient-Credit-Card-Fraud-Detection
 
 
-# 💳 Hybrid Artificial Neural Network – Principal Component Analysis – Multi-Layer Perceptron Model for Accurate and Efficient Credit Card Fraud Detection
-
 This project combines advanced machine learning techniques, such as **Principal Component Analysis (PCA)** and **Multi-Layer Perceptron (MLP)** models, to create a highly efficient and accurate **Credit Card Fraud Detection System**. The system uses PCA to reduce the dimensionality of the dataset, improving the performance and training time of the **MLP (Artificial Neural Network)** model, which then classifies transactions as either fraudulent or legitimate.
 
 ---
