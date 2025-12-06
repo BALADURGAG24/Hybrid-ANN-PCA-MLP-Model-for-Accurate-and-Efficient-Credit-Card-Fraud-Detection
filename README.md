@@ -12,8 +12,9 @@ This project detects fraudulent credit card transactions using a hybrid neural n
 ## Run the Project  
  
 1. Install dependencies:
-```bash 
+```bash  
 pip install -r requirements.txt
+
 
 
 
