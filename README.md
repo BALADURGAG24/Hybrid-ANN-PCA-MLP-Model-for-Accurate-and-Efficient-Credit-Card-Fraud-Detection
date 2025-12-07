@@ -6,7 +6,7 @@ This project detects fraudulent credit card transactions using a hybrid neural n
 ## Features
 - PCA for feature compression 
 - ANN with multiple dense layers
-- SMOTE to handle imbalanced dataset
+- SMOTE to handle imbalanced dataset 
 - ROC-AUC and Confusion Matrix for evaluation 
  
 ## Run the Project  
@@ -14,6 +14,7 @@ This project detects fraudulent credit card transactions using a hybrid neural n
 1. Install dependencies: 
 ```bash  
 pip install -r requirements.txt 
+
 
 
 
