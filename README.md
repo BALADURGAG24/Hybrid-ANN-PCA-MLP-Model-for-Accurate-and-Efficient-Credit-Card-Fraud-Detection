@@ -10,10 +10,11 @@ This project detects fraudulent credit card transactions using a hybrid neural n
 - ROC-AUC and Confusion Matrix for evaluation 
   
 ## Run the Project   
- 
+  
 1. Install dependencies: 
 ```bash  
 pip install -r requirements.txt 
+
 
 
 
