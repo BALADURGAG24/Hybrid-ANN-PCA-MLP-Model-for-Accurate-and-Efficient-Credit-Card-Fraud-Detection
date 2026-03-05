@@ -14,18 +14,27 @@ This project detects fraudulent credit card transactions using a hybrid neural n
 1. Install dependencies: 
 ```bash  
 pip install -r requirements.txt 
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Project Strcture
+```
+Directory structure:
+└── baladurgag24-hybrid-ann-pca-mlp-model-for-accurate-and-efficient-credit-card-fraud-detection/
+    ├── README.md
+    ├── app.py
+    ├── evaluate.py
+    ├── gitignore.txt
+    ├── LICENSE.txt
+    ├── main.py
+    ├── model.py
+    ├── preprocess.py
+    ├── requirements.txt
+    ├── utils.py
+    ├── data/
+    │   └── dataset.txt
+    ├── models/
+    │   ├── fraud_model.h5
+    │   ├── pca_transformer.pkl
+    │   └── scaler.pkl
+    └── project-screenshots/
+```
